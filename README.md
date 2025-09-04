@@ -4,7 +4,7 @@
 
 This project uses U-Net with a ResNet34 backbone to classify Land Use Land Cover (LULC) from satellite imagery, developed during my ISRO internship. It segments 4 classes (Background, Buildings, Woodlands, Water) and achieved a 0.7911 Mean IoU on validation with batch evaluation, and 0.79+ on the full test dataset. Inspired by the idea of AI augmenting human geospatial insights, this work reflects a passion for technology that empowers.
 
-![Architecture Diagram](results/system_architecture.png) 
+![Architecture Diagram](Results/system_architecture.png) 
 
 ## Overview
 Built on the landcover.ai dataset, this project automates LULC mapping for urban planning and environmental monitoring. It handles 21k high-resolution images, patched to 256x256, with augmentation to tackle class imbalance.
