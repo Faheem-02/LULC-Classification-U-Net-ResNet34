@@ -1,6 +1,6 @@
 # LULC Semantic Segmentation with U-Net + ResNet34
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Mean IoU](https://img.shields.io/badge/Mean%20IoU-0.8424-green.svg)]()
+[![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://www.python.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12-orange.svg)](https://www.tensorflow.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Mean IoU](https://img.shields.io/badge/Mean%20IoU-0.7911-green.svg)]()
 
 This project uses U-Net with a ResNet34 backbone to classify Land Use Land Cover (LULC) from satellite imagery, developed during my ISRO internship. It segments 4 classes (Background, Buildings, Woodlands, Water) and achieved a 0.7911 Mean IoU on validation with batch evaluation, and 0.79+ on the full test dataset. Inspired by the idea of AI augmenting human geospatial insights, this work reflects a passion for technology that empowers.
 
