@@ -1,1 +1,0 @@
-LadncoverAI Dataset from Kaggle: https://www.kaggle.com/datasets/adrianboguszewski/landcoverai
