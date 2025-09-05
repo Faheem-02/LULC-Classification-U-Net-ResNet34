@@ -1,0 +1,15 @@
+
+## 📦 Requirements
+
+| Library              | Version    |
+|----------------------|------------|
+| tensorflow           | ==2.12.0   |
+| keras                | ==2.12.0   |
+| numpy                | ==1.23.5   |
+| opencv-python        | ==4.8.0.74 |
+| matplotlib           | ==3.7.1    |
+| scikit-learn         | ==1.3.0    |
+| patchify             | ==0.2.3    |
+| split-folders        | ==0.5.1    |
+| classification-models| ==1.0.0    |
+
